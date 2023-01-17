@@ -77,10 +77,15 @@ p {
     border-radius: 15px;
    background-color: transparent;
    border-color: brown;
-text-transform: capitalize;
+  text-transform: capitalize;
 border: 1px solid brown;
-    
+   
 }
+
+video{
+    width: 100%;
+}
+
 .butt2 i {
     vertical-align: middle;
 }
